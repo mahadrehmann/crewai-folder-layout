@@ -1,0 +1,5 @@
+# Make sure you uncomment the following lines:
+
+# .env
+# __pycache__/
+# .DS_Store
